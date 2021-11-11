@@ -12,7 +12,7 @@ Here is a list of my machine learning projects that you can check out:
 > 
 > [Cats or dogs classifier 🐶🐱](https://github.com/noursan/cats_or_dogs/blob/main/README.md)  
 > [Pneumonia detection 🫁](https://github.com/noursan/pneumonia_detection/blob/main/README.md)  
-> [Cancer detection 🧬](https://github.com/noursan/cancer_detection/blob/main/README.md)
+> [Cancer detection 🧬 [Ongoing]](https://github.com/noursan/cancer_detection/blob/main/README.md)
 
 * ### Regression projects
 > 
