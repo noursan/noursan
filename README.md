@@ -1,6 +1,6 @@
-### Hi! :wave:🙂 Welcome to my GitHub profile :heart_eyes_cat:
+### Hi :wave:🙂 Welcome to my GitHub profile! 
 
-Here is a list of my machine learning projects that you can check:
+Here is a list of my machine learning projects that you can check out:
 
 * ### Classification projects
 > 
