@@ -5,7 +5,7 @@ Here is a list of my machine learning projects that you can check out:
 * ### Classification projects
 > 
 > [Heart disease classification 🫀](https://github.com/noursan/heart_disease_classification)  
-> [Clustering Countries (unsupervised learning) 🌎](https://github.com/noursan/clustering_countries)  
+> [Clustering countries (unsupervised learning) 🌎](https://github.com/noursan/clustering_countries)  
 > [Titanic 🛳️](https://github.com/noursan/titanic)
 
 * ### Computer Vision projects with CNN
