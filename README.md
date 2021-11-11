@@ -1,4 +1,22 @@
-### Hi there 👋
+### Hi! :wave:🙂 Welcome to my GitHub profile :heart_eyes_cat:
+
+Here is a list of my machine learning projects that you can check:
+
+* ### Classification projects
+> 
+> [Heart disease classification 🫀](https://github.com/noursan/heart_disease_classification)  
+> [Clustering Countries (unsupervised learning) 🌎](https://github.com/noursan/clustering_countries)  
+> [Titanic 🛳️](https://github.com/noursan/titanic)
+
+* ### Computer Vision projects with CNN
+> 
+> [Cats or dogs classifier 🐶🐱](https://github.com/noursan/cats_or_dogs)  
+> [Pneumonia detection 🫁](https://github.com/noursan/pneumonia_detection)  
+> [Cancer detection 🧬](https://github.com/noursan/cancer_detection)
+
+* ### Regression projects
+> 
+> [House prices 🏡](https://github.com/noursan/houseprices)  
 
 <!--
 **noursan/noursan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
