@@ -12,6 +12,7 @@ Here is a list of my machine learning projects that you can check out:
 > [House prices 🏡](https://github.com/noursan/houseprices/blob/main/README.md) 
 
 * ### Classification projects
+> 
 > [Titanic 🛳️](https://github.com/noursan/titanic/blob/main/README.md)
 > [Clustering countries (unsupervised learning) 🌎](https://github.com/noursan/clustering_countries/blob/main/README.md)
 
