@@ -14,7 +14,6 @@ Here is a list of my data science and machine learning projects that you can che
 * ### Classification projects
 > 
 > [Titanic 🛳️](https://github.com/noursan/titanic/blob/main/README.md)
-> 
 > [Clustering countries (unsupervised learning) 🌎](https://github.com/noursan/clustering_countries/blob/main/README.md)
 
 * ### Computer Vision projects with CNN
